@@ -8,7 +8,7 @@
 
 - 📚 During my education I've built & strengthen my skills in coding by doing **+70** projects with: **C, C++, Python, Haskell, Javascript, Docker, minikube** , built a compiler in **Haskell**, 3D video game in **C++**, Multiplayer video Game in **C++** etc..
 
-- I have professional experience in web development (**React JS, Node JS, Typescript**) and mobile development (**React Native, Swift, Typescript**)
+- I have professional experience in web development (**React JS, Node JS, Typescript**, also **Angular, Python, FastAPI, SQLAlchemy**) and mobile development (**React Native, Swift, Typescript**)
 
 - 🤖 In addition to grow my knowledge and skills in software engineering, I'm also studying AI/ML/DL by reading a lot, learning math, and doing projects on kaggle (https://www.kaggle.com/akadoc23) or here:
     - https://github.com/pmgzo/my_notebooks
