@@ -1,6 +1,6 @@
-  # Hi, I’m Pierre-Mickaël
+# Hi, I’m Pierre-Mickaël
 
-- 🎓 I’m a software engineer currently in 5th year at Epitech (CS degree)
+- 🎓 I’m a software engineer, I've just completed my master in Computer Science at Epitech.
 - ❤️‍🔥 I love learning, coding, and developing useful thing that's why I have no limit in developing on different support web, mobile, embedded system, whatever...
 
 ## Background
