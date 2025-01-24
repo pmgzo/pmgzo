@@ -1,7 +1,7 @@
 # Hi, I’m Pierre-Mickaël
 
 - 🎓 I’m a software engineer, I've just completed my master in Computer Science at Epitech.
-- ❤️‍🔥 I enjoy developing software combined Data Analysis and AI
+- ❤️‍🔥 I enjoy developing software combined with Data Analysis and AI
 - And I love to learn new technologies to pursuit my goals
 
 ## Background
